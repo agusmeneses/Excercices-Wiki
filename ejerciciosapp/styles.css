@@ -1,0 +1,149 @@
+.icon{
+  width: 100px;
+  height: 90x;
+  position: absolute;
+  margin: 0%
+}
+.titulo{
+  margin-top: 30px;
+  margin-left: 150px;
+  font-family: 'Open Sans', sans-serif;
+  color: #101a4e;
+}
+header {
+  background-color: #7ec8e1;
+  opacity: 0.8;
+  text-align: left;
+  color: white;
+  width: 98%;
+  padding: 1%;
+  height: 80px;
+}
+body {
+  background-image: url('resources/back.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+footer {
+  background-color: #33849f;
+  color: white;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  margin-top: 20px;
+  padding: 0;
+  text-align: center;
+}
+form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 20px;
+  color: rgb(255, 255, 255);
+}
+
+.selector{
+  font-size:large;
+  color: white;
+  margin-left: 72px;
+  font-family:'Open Sans', sans-serif;
+}
+
+.reg{
+  margin-bottom: 100px;
+}
+
+.card {
+  margin-right: 20px;
+}
+
+.exercise-name{
+  color: rgb(0, 0, 0);
+  padding: 10px;
+  margin-top: 20px;
+  height: 50px;
+  margin-left: 20px;
+  border: none;
+  border-radius: 5px;
+  box-shadow: 0 0 5px gray;
+  background-color: #1f8bac;
+  cursor: pointer;
+}
+
+
+.read-more-button{
+  color:#4f2727;
+  width: auto;
+  height: auto;
+  border-radius: 20%;
+
+}
+p{
+  margin-left: 30px;
+}
+
+.hidden {
+  display: none;
+}
+
+iframe{
+  margin-left: 30px;
+  width: 300px;
+  height: 200px;
+}
+
+.lista{
+  color: aliceblue;
+  margin-bottom: 28px;
+}
+
+
+label {
+  margin-top: 10px;
+}
+
+input {
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+  box-shadow: 0 0 5px gray;
+}
+
+.enviar {
+  padding: 10px;
+  margin-top: 20px;
+  border: none;
+  border-radius: 5px;
+  box-shadow: 0 0 5px gray;
+  background-color: #007bff;
+  color: white;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #0062cc;
+}
+
+.map-container{
+  margin-top: 10px;
+  position:absolute;
+  margin-left: 100px;
+  
+}
+
+.cuerpo{
+  opacity: 0.9;
+}
+
+.prev-button{
+  margin-left: 30px;
+  
+}
+
+
+
